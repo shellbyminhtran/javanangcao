@@ -1,0 +1,23 @@
+==========================================
+            STARBUCKS TRIỀU KHÚC          
+==========================================
+Mã HĐ: HD1769266770837
+Ngày: Sat Jan 24 21:59:33 GMT+07:00 2026
+Nhân viên: Phạm Tuấn Minh
+Khách hàng: 2
+------------------------------------------
+Tên món              SL    Thành tiền     
+Americano            1     55000.0        
+Latte                1     60000.0        
+Caramel Cream Frappuchino 1     95000.0        
+Green Tea Cream Frappuchino 1     95000.0        
+Matcha Latte         1     90000.0        
+Vanila Cream Frappuchino 1     95000.0        
+Hibicus Tea          1     55000.0        
+Lychee Rose Hibicustea With Lemonnade 1     95000.0        
+Satled Caramel DE    1     60000.0        
+------------------------------------------
+Hình thức: Visa
+THỰC THU: 592.000 VND
+==========================================
+      CẢM ƠN QUÝ KHÁCH - HẸN GẶP LẠI      

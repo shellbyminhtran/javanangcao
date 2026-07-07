@@ -1,0 +1,10 @@
+# Bỏ qua các file và thư mục biên dịch của NetBeans
+build/
+dist/
+nbproject/private/
+*.class
+
+# Bỏ qua các file ẩn của hệ thống
+*.DS_Store
+.idea/
+*.iml
